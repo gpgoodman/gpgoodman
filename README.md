@@ -3,75 +3,104 @@
 Full-stack engineer building production-ready web apps with **Next.js** & **Supabase** — with a focus on **real-world AI search** and performance.
 
 I’m the creator of **Campvue.com** — helping campers find the perfect site by combining:
+
 - 📍 High-quality campsite visuals + reviews
-- 🧭 Privacy, amenities, and terrain insights
-- 🔎 Semantic + vector-powered search (in development)
+- 🛟 Privacy, amenities, and terrain insights
+- 🧠 Semantic + vector-powered search (in development)
 
 Currently exploring how **LLMs + pgvector + clean data models** can transform trip planning.
 
 ---
 
-## 🔭 Featured Work
+## 🏕 Featured Work
 
-### 🏕 Campvue.com (Private Repo)
+### ⛺ Campvue.com (Private Repo)
+
 Production website built using:
+
 - **Next.js App Router** + on-demand ISR
 - **Supabase** (Postgres + Storage + Auth)
 - Dynamic campsite media + rating system
 - Fast browsing optimized for mobile travelers
 
-> 🚀 Launched in 2025 with growing early-user feedback  
-> 🎯 Mission: Help campers see the site before they book it
+🚀 *Launched in 2025 with growing early-user feedback*  
+🎯 *Mission: Help campers see the site before they book it*
 
 You can visit Campvue here → **https://campvue.com**  
-(Drive-thru campsite videos included!)
+*(Drive-thru campsite videos included!)*
+
+---
+
+### 🤖 Campvue Chatbot Search (Private Repo)
+
+AI-powered natural-language search for Campvue using:
+
+- **Supabase `pgvector`** for vector indexing of campsites
+- **Hybrid semantic + deterministic search** for accurate results
+- **Cost-aware RAG** optimized for performance and scale
+- **LLM integration** using OpenAI / Anthropic APIs
+
+Built to help campers search by real intent, like:
+
+> “Within 100 miles of Yosemite, find a private site near water with good shade with high user ratings.”
+
+Currently evolving into a fully integrated Campvue experience.
 
 ---
 
 ### 🗂 RIDB Normalizer API — Open Source
+
 A clean, normalized API surface for federal campground data  
-(US Recreation Information Database)
+(US Recreation Information Database):
 
-- **Next.js 16** SSR API endpoints
-- **Supabase Postgres** authoritative store
+- **Next.js 16** API routes for ingestion + transformation
+- **Supabase Postgres** as the authoritative datastore
 - **Zod** schemas for compile-time + runtime data validation
-- **Swagger/OpenAPI** documentation
+- **Swagger / OpenAPI** documentation for consistent integrations
 
-Repo: https://github.com/gpgoodman/ridb-normalizer
-Website: https://ridb-normalizer.vercel.app/
+This service feeds structured data into Campvue and the chatbot POC.
+
+- 📂 Repo: https://github.com/gpgoodman/ridb-normalizer
+- 📂 Website: https://ridb-normalizer.vercel.app/
+
 
 ---
 
-## 🧰 Tech I Use Often
+## 🧰 Tech I Work With
 
-`JavaScript` · `Next.js` · `Supabase` · `Postgres` · `TailwindCSS`  
-`pgvector` · `OpenAPI` · `Vercel` · `SWR` · `Server Components`
-`React`
+**Core stack**
 
-Passionate about simplicity over ceremony 
+`JavaScript` · `TypeScript` · `Next.js (App Router)` · `React`  
+`Supabase` · `Postgres` · `pgvector` · `Tailwind CSS` · `Vercel`
+`Node.js`
+
+**Supporting tools**
+
+`Zod` · `OpenAPI / Swagger` · `SWR` 
+
+I care about shipping pragmatic, maintainable systems more than chasing shiny abstractions.
 
 ---
 
 ## 🌎 About Me
 
-📍 Phoenix, AZ  
-✈️ Built to work remotely — even from campsites via Starlink  
-🎥 I also run a YouTube travel channel exploring the American West
+- 📍 Based in Phoenix, AZ — often working remotely from the road
+- 🏕 Creator of **Campvue.com**
+- 🎥 Also run a YouTube travel channel exploring the American West
 
 ---
 
 ## 👀 Open to Opportunities
 
-I'm currently open to **remote full-stack roles** that value:
-- Good engineering practices without heavy bureaucracy
-- Asynchronous collaboration and workflow efficiency
-- Space for creativity + autonomy
+I’m currently open to **remote full-stack roles** that value:
 
-Connect with me:  
-🔗 **LinkedIn:** https://linkedin.com/in/gpgoodman  
-🌐 **Website:** https://campvue.com
+- Solid engineering practices without heavy bureaucracy
+- **Async-first collaboration that respects deep work and flexibility**
+- Space for creativity, ownership, and thoughtful product decisions
 
----
+If that sounds like your team, let’s talk:
 
-_Thanks for stopping by!_
+- 🔗 **LinkedIn:** https://linkedin.com/in/gpgoodman
+- 🌐 **Campvue:** https://campvue.com
 
+_Thanks for stopping by 👋_

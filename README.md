@@ -31,7 +31,7 @@ You can visit Campvue here → **https://campvue.com**
 
 ---
 
-### 🤖 Campvue Chatbot Search (Private Repo)
+### 🤖 Scout (Private Repo)
 
 AI-powered natural-language search for Campvue using:
 

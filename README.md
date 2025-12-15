@@ -47,7 +47,7 @@ Built to help campers search by real intent, like:
 Currently evolving into a fully integrated Campvue experience.
 
 You can try Scout here → **https://campvue-scout.vercel.app/**  
-*(Current in active development!)*
+*(Currently in active development!)*
 
 ---
 

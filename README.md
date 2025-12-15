@@ -51,7 +51,7 @@ You can try Scout here → **https://campvue-scout.vercel.app/**
 
 ---
 
-### 🗂 RIDB Normalizer API — Open Source
+### 🗂 RIDB Normalizer API
 
 A clean, normalized API surface for federal campground data  
 (US Recreation Information Database):
@@ -61,7 +61,7 @@ A clean, normalized API surface for federal campground data
 - **Zod** schemas for compile-time + runtime data validation
 - **Swagger / OpenAPI** documentation for consistent integrations
 
-This service feeds structured data into Campvue and the chatbot POC.
+This service feeds structured data into Campvue and Scout-powered search.
 
 - 📂 Repo: https://github.com/gpgoodman/ridb-normalizer
 - 📂 Website: https://ridb-normalizer.vercel.app/
@@ -79,7 +79,7 @@ This service feeds structured data into Campvue and the chatbot POC.
 
 **Supporting tools**
 
-`Zod` · `OpenAPI / Swagger` · `SWR` 
+`Zod` · `OpenAPI / Swagger` · `SWR` · `pgvector`
 
 I care about shipping pragmatic, maintainable systems more than chasing shiny abstractions.
 
@@ -88,7 +88,7 @@ I care about shipping pragmatic, maintainable systems more than chasing shiny ab
 ## 🌎 About Me
 
 - 📍 Based in Phoenix, AZ — often working remotely from the road
-- 🏕 Creator of **Campvue.com**
+- 🏕 Creator of **Campvue.com** and **Scout**
 - 🎥 Also run a YouTube travel channel exploring the American West
 
 ---

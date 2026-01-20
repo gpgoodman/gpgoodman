@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Glenn Goodman
 
-Full-stack engineer building production-ready web apps with **Next.js** & **Supabase** — with a focus on **real-world AI search** and performance.
+Full-stack engineer building production-ready web apps with **Next.js** & **Supabase** — with a recent focus on **real-world AI search** and performance.
 
-I’m the creator of **Campvue.com** — helping campers find the perfect site by combining:
+I’m the developer behind **Campvue.com** — helping campers find the perfect site by combining:
 
 - 📍 High-quality campsite visuals + reviews
 - 🛟 Privacy, amenities, and terrain insights
@@ -18,7 +18,7 @@ Currently exploring how **LLMs + pgvector + clean data models** can transform tr
 
 Production website built using:
 
-- **Next.js App Router** + on-demand ISR
+- **Next.js App Router** + static rendering and on-demand ISR
 - **Supabase** (Postgres + Storage + Auth)
 - Dynamic campsite media + rating system
 - Fast browsing optimized for mobile travelers
@@ -28,6 +28,25 @@ Production website built using:
 
 You can visit Campvue here → **https://campvue.com**  
 *(Drive-thru campsite videos included!)*
+
+---
+
+### 👆 react-swipe-row (OSS Project)
+
+Scroll-snap rail with trackpad/mouse wheel, touch momentum, keyboard paging (←/→), and optional desktop controls.
+
+- Intentionally unopinionated
+- Accessibility is a first class concern
+- Zero runtime dependencies
+- Free to use- MIT license
+- Great example of my front end chops!!
+  
+👉 Check out the full demo here: https://react-swipe-row.vercel.app/
+
+👉 Check out the npm page: https://www.npmjs.com/package/@goodmanlabs/react-swipe-row
+
+**Built with:**
+`TypeScript` · `React`
 
 ---
 
@@ -71,7 +90,7 @@ This service feeds structured data into Campvue and Scout-powered search.
 
 ## 🧰 Tech I Work With
 
-**Core stack**
+**Core stack (Preferred Tech)**
 
 `JavaScript` · `TypeScript` · `Next.js (App Router)` · `React`  
 `Supabase` · `Postgres` · `pgvector` · `Tailwind CSS` · `Vercel`
@@ -79,7 +98,7 @@ This service feeds structured data into Campvue and Scout-powered search.
 
 **Supporting tools**
 
-`Zod` · `OpenAPI / Swagger` · `SWR` · `pgvector`
+`Zod` · `OpenAPI / Swagger` · `SWR` · `pgvector` · `Jest` · `React Testing Library`
 
 I care about shipping pragmatic, maintainable systems more than chasing shiny abstractions.
 
@@ -87,15 +106,15 @@ I care about shipping pragmatic, maintainable systems more than chasing shiny ab
 
 ## 🌎 About Me
 
-- 📍 Based in Phoenix, AZ — often working remotely from the road
+- 📍 Based in Phoenix, AZ 
 - 🏕 Creator of **Campvue.com** and **Scout**
-- 🎥 Also run a YouTube travel channel exploring the American West
+- 🎥 Also run a YouTube travel channel exploring the American West as a fun hobby, when time allows
 
 ---
 
 ## 👀 Open to Opportunities
 
-I’m currently open to **remote full-stack roles** that value:
+I’m currently open to **front end or full-stack roles** that value:
 
 - Solid engineering practices without heavy bureaucracy
 - **Async-first collaboration that respects deep work and flexibility**

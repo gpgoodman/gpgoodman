@@ -55,6 +55,7 @@ Scroll-snap rail with trackpad/mouse wheel, touch momentum, keyboard paging (←
 AI-powered natural-language search for Campvue using:
 
 - **Supabase `pgvector`** for vector indexing of campsites
+- **OpenAI `embeddings`** to generate text embeddings
 - **Hybrid semantic + deterministic search** for accurate results
 - **Cost-aware RAG** optimized for performance and scale
 - **LLM integration** using OpenAI / Anthropic APIs
@@ -66,7 +67,7 @@ Built to help campers search by real intent, like:
 Currently evolving into a fully integrated Campvue experience.
 
 You can try Scout here → **https://campvue-scout.vercel.app/**  
-*(Currently in active development!)*
+*(Currently in active development! Current version includes pgvector/openai integration for semantic search.  The 'R' in RAG! )*
 
 ---
 

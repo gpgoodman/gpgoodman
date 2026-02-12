@@ -70,6 +70,20 @@ You can try Scout here → **https://campvue-scout.vercel.app/**
 *(Currently in active development! Current version includes pgvector/openai integration for semantic search.  The 'R' in RAG! )*
 
 ---
+### ✈️ Runway
+
+A financial resilience simulator built by me, a Gen X'er worried about AI disruption and ageism in the tech industry
+
+- A financial tool that helps predict financial independence scenarios
+- Runs simulations to predict unplanned draw downs of assets needed to bridge gaps in the age corporate layoffs
+- Built with Next.js (React), Typescript and CSS modules
+
+*Runway is a work in progress.  Check often for updates and enhancments*
+
+- 📂 Repo: https://github.com/gpgoodman/runway
+- 📂 Website: https://runway-planner.vercel.app
+
+---
 
 ### 🗂 RIDB Normalizer API
 
